@@ -1,6 +1,6 @@
 namespace MicroService.Api.BusinessService;
 
-public class WeatherForecast
+public class Product
 {
     public DateTime Date { get; set; }
 
